@@ -1,8 +1,6 @@
 <h1 align="center">Hi🤘, I'm Patnagan Kachawuthakorn</h1>
 <h3 align="center">AI Engineer | Machine Learning | Data Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pngkcwtk&label=Profile%20views&color=0e75b6&style=flat" alt="pngkcwtk" /> </p>
-
 - 📫 How to reach me **p.patnagan@gmail.com**
 
 - 📄 Know about my experiences [resume link](resume link)
