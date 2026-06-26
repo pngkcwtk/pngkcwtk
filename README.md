@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🤘 Hi, I'm Patnagan Kachawuthakorn
+# Hi, I'm Patnagan Kachawuthakorn
 
-### 🧠 AI Engineer | Machine Learning | Data Engineering
+### Machine Learning | Data Engineering
 
 <p align="center">
   <a href="https://linkedin.com/in/patnagan-kachawuthakorn-700731333" target="blank">
