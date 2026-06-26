@@ -2,7 +2,7 @@
 
 # Hi, I'm Patnagan Kachawuthakorn (Gusji)
 
-### Machine Learning | Data Engineering
+### Data Science and Business Analytics Student | AI • Data • Analytics
 
 <p align="center">
   <a href="https://linkedin.com/in/patnagan-kachawuthakorn-700731333" target="blank">
@@ -19,8 +19,6 @@
   </a>
 </p>
 
----
-🎯 *“Turning raw data into intelligent actions, one pipeline at a time.”*
 ---
 
 </div>
