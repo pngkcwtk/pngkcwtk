@@ -1,9 +1,8 @@
 <div align="center">
 
-# ⚡ Patnagan Kachawuthakorn (Gusji) ⚡
+# 🤘 Hi, I'm Patnagan Kachawuthakorn
 
-<!-- Typing Animation Setup -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=🎯+AI+Engineer;🤖+Machine+Learning+Specialist;💾+Data+Engineer+Aspiring;💻+Full-Stack+Explorer" alt="Typing SVG" />
+### 🧠 AI Engineer | Machine Learning | Data Engineering
 
 <p align="center">
   <a href="https://linkedin.com/in/patnagan-kachawuthakorn-700731333" target="blank">
@@ -21,16 +20,14 @@
 </p>
 
 ---
-⚡ *“Turning raw data into intelligent actions, one pipeline at a time.”* ⚡
+🎯 *“Turning raw data into intelligent actions, one pipeline at a time.”*
 ---
 
 </div>
 
-## 🛠️ My Tech Toolbox
+## 🛠️ Tech Toolbox
 
-<details>
-<summary>🧠 <b>Data Science & AI / ML</b> (Click to expand)</summary>
-<br>
+### 🧠 Data Science & AI / ML
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
@@ -45,11 +42,8 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
   </a>
 </p>
-</details>
 
-<details>
-<summary>🗄️ <b>Databases & Backend Infrastructure</b> (Click to expand)</summary>
-<br>
+### 🗄️ Databases & Backend
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
@@ -67,11 +61,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
   </a>
 </p>
-</details>
 
-<details>
-<summary>🎨 <b>Frontend Development & Design</b> (Click to expand)</summary>
-<br>
+### 🎨 Frontend & Design Tools
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
@@ -92,27 +83,16 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
   </a>
 </p>
-</details>
 
 ---
 
-## 📊 Git Activity & Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pngkcwtk&show_icons=true&theme=tokyonight&locale=en" alt="Gusji's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pngkcwtk&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Gusji's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pngkcwtk&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pngkcwtk&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pngkcwtk&theme=tokyonight" alt="Gusji's Streak Stats" width="97%" />
-</p>
-
----
-
-## 🎮 Contribution Snake
-<!-- Animated Snake Eating Contributions Grid -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pngkcwtk&theme=tokyonight" alt="Activity Graph" width="97%" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/pngkcwtk/pngkcwtk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pngkcwtk&theme=tokyonight" alt="Streak Stats" width="97%" />
 </p>
