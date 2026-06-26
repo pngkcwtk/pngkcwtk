@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Patnagan Kachawuthakorn
+# Hi, I'm Patnagan Kachawuthakorn (Gusji)
 
 ### Machine Learning | Data Engineering
 
