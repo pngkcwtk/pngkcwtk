@@ -14,8 +14,8 @@
   <a href="mailto:p.patnagan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/pngkcwtk">
-    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
+  <a href="https://drive.google.com/file/d/1XRtY33Kr6vVRZkjMWdz3ta5i5LDAueAi/view?usp=sharing">
+    <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV" />
   </a>
 </p>
 
