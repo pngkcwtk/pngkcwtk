@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Patnagan Kachawuthakorn (Gusji)
+# Patnagan Kachawuthakorn (Gusji)
 
 ### Data Science and Business Analytics Student | AI • Data • Analytics
 
