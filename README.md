@@ -86,8 +86,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pngkcwtk&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" width="48%" />
 </p>
