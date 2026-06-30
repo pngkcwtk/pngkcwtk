@@ -87,5 +87,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/pngkcwtk?base=header,activity,community,repositories&base.colors=tokyonight" alt="GitHub Metrics" width="97%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pngkcwtk&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pngkcwtk&theme=tokyonight" alt="Streak Stats" width="97%" />
 </p>
