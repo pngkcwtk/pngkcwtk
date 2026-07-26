@@ -14,7 +14,7 @@
   <a href="mailto:p.patnagan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://drive.google.com/file/d/18DFDH-4FZYx-s5FvEjcMqXLqljoemLOb/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1bhDBdLm6Vqo9_iwXTjb76dMkmN8ALL8g/view?usp=drive_link">
     <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV" />
   </a>
 </p>
