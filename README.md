@@ -5,28 +5,28 @@
 <br />
 <br />
 
-<a href="https://linkedin.com/in/patnagan-kachawuthakorn-700731333"><img src="https://img.shields.io/badge/LinkedIn-11150D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F4D64F" alt="LinkedIn" /></a>
-<a href="https://discord.gg/894951303363559444"><img src="https://img.shields.io/badge/Discord-11150D?style=for-the-badge&amp;logo=discord&amp;logoColor=F4D64F" alt="Discord" /></a>
-<a href="mailto:p.patnagan@gmail.com"><img src="https://img.shields.io/badge/Email-11150D?style=for-the-badge&amp;logo=gmail&amp;logoColor=F4D64F" alt="Email" /></a>
-<a href="https://drive.google.com/file/d/16XqR2p-jOif71lEB98ukqu-5PFPpgQ6q/view?usp=drive_link"><img src="https://img.shields.io/badge/View_CV-11150D?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=F4D64F" alt="View my CV" /></a>
+<a href="https://linkedin.com/in/patnagan-kachawuthakorn-700731333"><img src="assets/button-linkedin.svg" alt="LinkedIn" width="120" height="40" /></a>
+<a href="https://discord.gg/894951303363559444"><img src="assets/button-discord.svg" alt="Discord" width="120" height="40" /></a>
+<a href="mailto:p.patnagan@gmail.com"><img src="assets/button-email.svg" alt="Email" width="120" height="40" /></a>
+<a href="https://drive.google.com/file/d/16XqR2p-jOif71lEB98ukqu-5PFPpgQ6q/view?usp=drive_link"><img src="assets/button-cv.svg" alt="View my CV" width="120" height="40" /></a>
 
 <br />
 <br />
 
-**Exploring the connections between data, AI, and business.**
+A little curiosity, a little code, and a lot of learning.
 
-I'm Gusji, a Data Science and Business Analytics student.<br />
-My interests span machine learning, data analysis, and building applications.
+I'm Gusji — a Data Science and Business Analytics student.<br />
+Exploring machine learning, making sense of data, and building things along the way.
 
 </div>
 
 <br />
 
-## Tech Toolbox
+<img src="assets/heading-toolbox.svg" alt="My little toolbox" width="330" />
 
-Tools I use across data projects and application development.
+Some tools I reach for when working with data and building things.
 
-### Data Science & Machine Learning
+<img src="assets/heading-data.svg" alt="Data & machine learning" width="330" />
 
 <p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -45,7 +45,7 @@ Tools I use across data projects and application development.
 
 <sub>Python · pandas · scikit-learn · seaborn</sub>
 
-### Databases & Backend
+<img src="assets/heading-backend.svg" alt="Databases & backend" width="330" />
 
 <p>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -67,7 +67,7 @@ Tools I use across data projects and application development.
 
 <sub>MySQL · PostgreSQL · MongoDB · Node.js · Express</sub>
 
-### Frontend & Design
+<img src="assets/heading-frontend.svg" alt="Frontend & design" width="330" />
 
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -94,7 +94,7 @@ Tools I use across data projects and application development.
 
 <br />
 
-## GitHub Activity
+<img src="assets/heading-activity.svg" alt="A little GitHub activity" width="390" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pngkcwtk&amp;theme=transparent&amp;hide_border=true&amp;ring=F4D64F&amp;fire=A9E64B&amp;currStreakLabel=A9E64B&amp;sideLabels=A5B48C&amp;currStreakNum=A5B48C&amp;sideNums=A5B48C&amp;dates=89956F" alt="GitHub contribution streak for pngkcwtk" width="85%" />
