@@ -81,10 +81,6 @@
 
 <img src="assets/heading-activity.svg" alt="A little GitHub activity" width="390" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pngkcwtk&amp;theme=transparent&amp;hide_border=true&amp;ring=F4D64F&amp;fire=A9E64B&amp;currStreakLabel=A9E64B&amp;sideLabels=A5B48C&amp;currStreakNum=A5B48C&amp;sideNums=A5B48C&amp;dates=89956F" alt="GitHub contribution streak for pngkcwtk" width="85%" />
-</p>
-
 ---
 
 <p align="center">
