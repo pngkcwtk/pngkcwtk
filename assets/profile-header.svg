@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
 <title id="title">Patnagan Kachawuthakorn — Gusji</title>
-<desc id="desc">Data Science and Business Analytics student. Black, yellow and green banner with a large cat on the right, rising from the bottom edge.</desc>
+<desc id="desc">Black, yellow and green profile banner with a round black cat, yellow eyes, a swaying tail and twitching whiskers.</desc>
 <defs>
  <linearGradient id="bg" x2="1" y2="0.7"><stop stop-color="#080a08"/><stop offset="1" stop-color="#151c0d"/></linearGradient>
  <radialGradient id="glow"><stop stop-color="#a9e64b" stop-opacity=".14"/><stop offset="1" stop-color="#a9e64b" stop-opacity="0"/></radialGradient>
@@ -9,19 +9,23 @@
 <g clip-path="url(#clip)">
  <rect width="1200" height="380" fill="url(#bg)"/>
  <ellipse cx="1030" cy="170" rx="430" ry="360" fill="url(#glow)"/>
- <g aria-label="Large cat illustration">
-  <path d="M827 403L825 89Q825 78 835 88L910 175Q977 156 1041 176L1122 85Q1132 74 1133 90L1152 403Z" fill="#10170c" stroke="#a9e64b" stroke-width="3" stroke-linejoin="round"/>
-  <path d="M841 111L848 178L884 175Z" fill="#f4d64f" opacity=".22"/>
-  <path d="M1116 111L1075 178L1123 185Z" fill="#a9e64b" opacity=".18"/>
-  <path d="M884 243Q908 227 932 243M1027 243Q1051 227 1075 243" fill="none" stroke="#f4d64f" stroke-width="5" stroke-linecap="round"/>
-  <path d="M968 267Q980 263 992 267L980 278Z" fill="#f4d64f"/>
-  <path d="M980 278V285Q968 301 954 288M980 285Q992 301 1006 288" fill="none" stroke="#a9e64b" stroke-width="3" stroke-linecap="round"/>
-  <g stroke="#a9e64b" stroke-width="2" stroke-linecap="round" opacity=".7">
-   <path d="M864 269L916 277M860 294L916 289M1043 277L1095 268M1043 289L1100 294"/>
+ <g aria-label="Round black cat with animated tail and whiskers">
+  <ellipse cx="983" cy="337" rx="112" ry="12" fill="#000000" opacity=".25"/>
+  <g id="tail" transform="rotate(0 1040 286)">
+   <animateTransform attributeName="transform" type="rotate" values="-12 1040 286;12 1040 286;-12 1040 286" dur="3s" repeatCount="indefinite"/>
+   <path d="M1040 286C1117 331 1176 270 1150 219C1134 188 1105 208 1120 231" fill="none" stroke="#020302" stroke-width="22" stroke-linecap="round"/>
   </g>
-  <ellipse cx="909" cy="265" rx="14" ry="5" fill="#f4d64f" opacity=".13"/>
-  <ellipse cx="1050" cy="265" rx="14" ry="5" fill="#f4d64f" opacity=".13"/>
-  <path d="M927 362Q928 342 946 342Q964 342 965 363V382M1000 382V363Q1001 342 1020 342Q1038 342 1039 363" fill="#18210f" stroke="#a9e64b" stroke-width="2"/>
+  <path d="M900 149Q899 102 920 100Q930 101 943 116Q970 108 1001 116Q1017 97 1029 103Q1046 109 1049 150C1117 203 1103 291 1041 319Q1034 343 1018 344Q1004 344 1001 331Q978 335 956 331Q951 347 935 344Q922 342 916 324C844 302 835 207 900 149Z" fill="#020302"/>
+  <ellipse cx="939" cy="179" rx="19" ry="24" transform="rotate(16 939 179)" fill="#020302" stroke="#f4d64f" stroke-width="4"/>
+  <ellipse cx="1000" cy="177" rx="19" ry="24" transform="rotate(-10 1000 177)" fill="#020302" stroke="#f4d64f" stroke-width="4"/>
+  <g id="whiskers-left" transform="rotate(0 930 224)" stroke="#a9c873" stroke-width="1.6" stroke-linecap="round" opacity=".65">
+   <animateTransform attributeName="transform" type="rotate" values="0 930 224;-5 930 224;0 930 224;3 930 224;0 930 224" dur="3s" repeatCount="indefinite"/>
+   <path d="M930 224L879 214M928 233L876 235"/>
+  </g>
+  <g id="whiskers-right" transform="rotate(0 1010 224)" stroke="#a9c873" stroke-width="1.6" stroke-linecap="round" opacity=".65">
+   <animateTransform attributeName="transform" type="rotate" values="0 1010 224;5 1010 224;0 1010 224;-3 1010 224;0 1010 224" dur="3s" repeatCount="indefinite"/>
+   <path d="M1010 224L1061 214M1012 233L1064 235"/>
+  </g>
  </g>
  <rect x="54" y="58" width="30" height="3" rx="1.5" fill="#f4d64f"/>
  <text x="98" y="64" fill="#b6cc8a" font-family="Arial, sans-serif" font-size="12" letter-spacing="3">HELLO, I'M GUSJI</text>
