@@ -5,10 +5,10 @@
 <br />
 <br />
 
-<a href="https://linkedin.com/in/patnagan-kachawuthakorn-700731333"><img src="https://img.shields.io/badge/LinkedIn-132638?style=for-the-badge&amp;logo=linkedin&amp;logoColor=80E4CC" alt="LinkedIn" /></a>
-<a href="https://discord.gg/894951303363559444"><img src="https://img.shields.io/badge/Discord-132638?style=for-the-badge&amp;logo=discord&amp;logoColor=80E4CC" alt="Discord" /></a>
-<a href="mailto:p.patnagan@gmail.com"><img src="https://img.shields.io/badge/Email-132638?style=for-the-badge&amp;logo=gmail&amp;logoColor=80E4CC" alt="Email" /></a>
-<a href="https://drive.google.com/file/d/16XqR2p-jOif71lEB98ukqu-5PFPpgQ6q/view?usp=drive_link"><img src="https://img.shields.io/badge/View_CV-132638?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=80E4CC" alt="View my CV" /></a>
+<a href="https://linkedin.com/in/patnagan-kachawuthakorn-700731333"><img src="https://img.shields.io/badge/LinkedIn-11150D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F4D64F" alt="LinkedIn" /></a>
+<a href="https://discord.gg/894951303363559444"><img src="https://img.shields.io/badge/Discord-11150D?style=for-the-badge&amp;logo=discord&amp;logoColor=F4D64F" alt="Discord" /></a>
+<a href="mailto:p.patnagan@gmail.com"><img src="https://img.shields.io/badge/Email-11150D?style=for-the-badge&amp;logo=gmail&amp;logoColor=F4D64F" alt="Email" /></a>
+<a href="https://drive.google.com/file/d/16XqR2p-jOif71lEB98ukqu-5PFPpgQ6q/view?usp=drive_link"><img src="https://img.shields.io/badge/View_CV-11150D?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=F4D64F" alt="View my CV" /></a>
 
 <br />
 <br />
@@ -97,7 +97,7 @@ Tools I use across data projects and application development.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pngkcwtk&amp;theme=transparent&amp;hide_border=true&amp;ring=59CDB1&amp;fire=59CDB1&amp;currStreakLabel=59CDB1&amp;sideLabels=8B9EAF&amp;currStreakNum=8B9EAF&amp;sideNums=8B9EAF&amp;dates=8193A4" alt="GitHub contribution streak for pngkcwtk" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pngkcwtk&amp;theme=transparent&amp;hide_border=true&amp;ring=F4D64F&amp;fire=A9E64B&amp;currStreakLabel=A9E64B&amp;sideLabels=A5B48C&amp;currStreakNum=A5B48C&amp;sideNums=A5B48C&amp;dates=89956F" alt="GitHub contribution streak for pngkcwtk" width="85%" />
 </p>
 
 ---
