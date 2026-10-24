@@ -78,8 +78,3 @@
 </p>
 
 
----
-
-<p align="center">
-  <sub>AI · Data · Analytics &nbsp; / &nbsp; Let's connect through <a href="https://linkedin.com/in/patnagan-kachawuthakorn-700731333">LinkedIn</a> or <a href="mailto:p.patnagan@gmail.com">email</a>.</sub>
-</p>
