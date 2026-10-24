@@ -10,21 +10,12 @@
 <a href="mailto:p.patnagan@gmail.com"><img src="assets/button-email.svg" alt="Email" width="120" height="40" /></a>
 <a href="https://drive.google.com/file/d/16XqR2p-jOif71lEB98ukqu-5PFPpgQ6q/view?usp=drive_link"><img src="assets/button-cv.svg" alt="View my CV" width="120" height="40" /></a>
 
-<br />
-<br />
-
-A little curiosity, a little code, and a lot of learning.
-
-I'm Gusji — a Data Science and Business Analytics student.<br />
-Exploring machine learning, making sense of data, and building things along the way.
 
 </div>
 
 <br />
 
 <img src="assets/heading-toolbox.svg" alt="My little toolbox" width="330" />
-
-Some tools I reach for when working with data and building things.
 
 <img src="assets/heading-data.svg" alt="Data & machine learning" width="330" />
 
