@@ -79,7 +79,7 @@
 
 <br />
 
-<img src="assets/heading-activity.svg" alt="A little GitHub activity" width="390" />
+<img src="assets/heading-activity.svg" alt="A little GitHub Repository" width="390" />
 
 ---
 
