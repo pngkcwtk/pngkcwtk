@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-header.gif" alt="Patnagan Kachawuthakorn (Gusji) — Data Science and Business Analytics Student" width="100%" />
+<img src="assets/profile-header-handwritten.gif" alt="Patnagan Kachawuthakorn (Gusji) — Data Science and Business Analytics Student" width="100%" />
 
 <br />
 <br />
