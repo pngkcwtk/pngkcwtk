@@ -77,9 +77,6 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<br />
-
-<img src="assets/heading-activity.svg" alt="A little GitHub Repository" width="390" />
 
 ---
 
