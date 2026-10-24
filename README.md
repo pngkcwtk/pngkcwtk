@@ -5,10 +5,10 @@
 <br />
 <br />
 
-<a href="https://linkedin.com/in/patnagan-kachawuthakorn-700731333"><img src="assets/contact-linkedin-v2.svg" alt="LinkedIn" width="120" height="40" /></a>
-<a href="https://discord.gg/894951303363559444"><img src="assets/contact-discord-v2.svg" alt="Discord" width="120" height="40" /></a>
-<a href="mailto:p.patnagan@gmail.com"><img src="assets/contact-email-v2.svg" alt="Email" width="120" height="40" /></a>
-<a href="https://drive.google.com/file/d/16XqR2p-jOif71lEB98ukqu-5PFPpgQ6q/view?usp=drive_link"><img src="assets/contact-cv-v2.svg" alt="View my CV" width="120" height="40" /></a>
+<a href="https://linkedin.com/in/patnagan-kachawuthakorn-700731333"><img src="assets/contact-linkedin-v3.svg" alt="LinkedIn" width="120" height="40" /></a>
+<a href="https://discord.gg/894951303363559444"><img src="assets/contact-discord-v3.svg" alt="Discord" width="120" height="40" /></a>
+<a href="mailto:p.patnagan@gmail.com"><img src="assets/contact-email-v3.svg" alt="Email" width="120" height="40" /></a>
+<a href="https://drive.google.com/file/d/16XqR2p-jOif71lEB98ukqu-5PFPpgQ6q/view?usp=drive_link"><img src="assets/contact-cv-v3.svg" alt="View my CV" width="120" height="40" /></a>
 
 
 </div>
