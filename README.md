@@ -34,8 +34,6 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<sub>Python · pandas · scikit-learn · seaborn</sub>
-
 <img src="assets/heading-backend.svg" alt="Databases & backend" width="330" />
 
 <p>
@@ -55,8 +53,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="38" height="38"/>
   </a>&nbsp;&nbsp;
 </p>
-
-<sub>MySQL · PostgreSQL · MongoDB · Node.js · Express</sub>
 
 <img src="assets/heading-frontend.svg" alt="Frontend & design" width="330" />
 
@@ -80,8 +76,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38"/>
   </a>&nbsp;&nbsp;
 </p>
-
-<sub>JavaScript · HTML · CSS · Tailwind CSS · Figma · Git</sub>
 
 <br />
 
