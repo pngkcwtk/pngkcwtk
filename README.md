@@ -1,91 +1,107 @@
 <div align="center">
 
-# Hi!, Patnagan Kachawuthakorn (Gusji)
+<img src="assets/profile-header.svg" alt="Patnagan Kachawuthakorn (Gusji) — Data Science and Business Analytics Student" width="100%" />
 
-### Data Science and Business Analytics Student | AI • Data • Analytics
+<br />
+<br />
 
-<p align="center">
-  <a href="https://linkedin.com/in/patnagan-kachawuthakorn-700731333" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.gg/894951303363559444" target="blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:p.patnagan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://drive.google.com/file/d/16XqR2p-jOif71lEB98ukqu-5PFPpgQ6q/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/patnagan-kachawuthakorn-700731333"><img src="https://img.shields.io/badge/LinkedIn-132638?style=for-the-badge&amp;logo=linkedin&amp;logoColor=80E4CC" alt="LinkedIn" /></a>
+<a href="https://discord.gg/894951303363559444"><img src="https://img.shields.io/badge/Discord-132638?style=for-the-badge&amp;logo=discord&amp;logoColor=80E4CC" alt="Discord" /></a>
+<a href="mailto:p.patnagan@gmail.com"><img src="https://img.shields.io/badge/Email-132638?style=for-the-badge&amp;logo=gmail&amp;logoColor=80E4CC" alt="Email" /></a>
+<a href="https://drive.google.com/file/d/16XqR2p-jOif71lEB98ukqu-5PFPpgQ6q/view?usp=drive_link"><img src="https://img.shields.io/badge/View_CV-132638?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=80E4CC" alt="View my CV" /></a>
 
----
+<br />
+<br />
+
+**Exploring the connections between data, AI, and business.**
+
+I'm Gusji, a Data Science and Business Analytics student.<br />
+My interests span machine learning, data analysis, and building applications.
 
 </div>
 
-## 🛠️ Tech Toolbox
+<br />
 
-### 🧠 Data Science & AI / ML
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
+## Tech Toolbox
+
+Tools I use across data projects and application development.
+
+### Data Science & Machine Learning
+
+<p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
-  </a>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
 </p>
 
-### 🗄️ Databases & Backend
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  </a>
+<sub>Python · pandas · scikit-learn · seaborn</sub>
+
+### Databases & Backend
+
+<p>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
 </p>
 
-### 🎨 Frontend & Design Tools
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  </a>
+<sub>MySQL · PostgreSQL · MongoDB · Node.js · Express</sub>
+
+### Frontend & Design
+
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.w3.org/2001/sw/wiki/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="45" height="45"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
+</p>
+
+<sub>JavaScript · HTML · CSS · Tailwind CSS · Figma · Git</sub>
+
+<br />
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pngkcwtk&amp;theme=transparent&amp;hide_border=true&amp;ring=59CDB1&amp;fire=59CDB1&amp;currStreakLabel=59CDB1&amp;sideLabels=8B9EAF&amp;currStreakNum=8B9EAF&amp;sideNums=8B9EAF&amp;dates=8193A4" alt="GitHub contribution streak for pngkcwtk" width="85%" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pngkcwtk&theme=tokyonight" alt="Streak Stats" width="97%" />
+  <sub>AI · Data · Analytics &nbsp; / &nbsp; Let's connect through <a href="https://linkedin.com/in/patnagan-kachawuthakorn-700731333">LinkedIn</a> or <a href="mailto:p.patnagan@gmail.com">email</a>.</sub>
 </p>
